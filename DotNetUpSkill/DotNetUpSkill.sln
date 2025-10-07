@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicsDemo", "..\CSharpBasics\BasicsDemo\BasicsDemo.csproj", "{3F071805-158F-4A70-8671-0A7DD2B5103F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPsDemo", "..\OOPsExercises\OOPsDemo\OOPsDemo.csproj", "{A1D1AE55-7CEF-49D0-B040-5BC5C158E569}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3F071805-158F-4A70-8671-0A7DD2B5103F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F071805-158F-4A70-8671-0A7DD2B5103F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F071805-158F-4A70-8671-0A7DD2B5103F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D1AE55-7CEF-49D0-B040-5BC5C158E569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D1AE55-7CEF-49D0-B040-5BC5C158E569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D1AE55-7CEF-49D0-B040-5BC5C158E569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D1AE55-7CEF-49D0-B040-5BC5C158E569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
